@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaapTreur
-- 👀 I’m interested in gnuCobol
-- 🌱 I’m currently experimenting in gnuCobol
+- 👀 I’m interested in Micro Focus Cobol
+- 🌱 I’m currently experimenting in Visual Studio / Micro Focus Cobol
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
